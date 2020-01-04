@@ -4,16 +4,16 @@
 	branch = caml-is-int
 [submodule "riscv-gcc"]
 	path = riscv-gcc
-	url = ../riscv-gcc.git
+	url = https://github.com/riscv/riscv-gcc.git
 [submodule "riscv-glibc"]
 	path = riscv-glibc
-	url = ../riscv-glibc.git
+	url = https://github.com/riscv/riscv-glibc.git
 [submodule "riscv-dejagnu"]
 	path = riscv-dejagnu
-	url = ../riscv-dejagnu.git
+	url = https://github.com/riscv/riscv-dejagnu.git
 [submodule "riscv-newlib"]
 	path = riscv-newlib
-	url = ../riscv-newlib.git
+	url = https://github.com/riscv/riscv-newlib.git
 [submodule "riscv-gdb"]
 	path = riscv-gdb
 	url = https://github.com/patricoferris/riscv-binutils-gdb.git
