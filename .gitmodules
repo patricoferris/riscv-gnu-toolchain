@@ -1,6 +1,7 @@
 [submodule "riscv-binutils"]
 	path = riscv-binutils
-	url = ../riscv-binutils-gdb.git
+	url = https://github.com/patricoferris/riscv-binutils-gdb.git
+	branch = caml-is-int
 [submodule "riscv-gcc"]
 	path = riscv-gcc
 	url = ../riscv-gcc.git
@@ -15,7 +16,8 @@
 	url = ../riscv-newlib.git
 [submodule "riscv-gdb"]
 	path = riscv-gdb
-	url = ../riscv-binutils-gdb.git
+	url = https://github.com/patricoferris/riscv-binutils-gdb.git
+	branch = caml-is-int
 [submodule "qemu"]
 	path = qemu
 	url = https://git.qemu.org/git/qemu.git
